@@ -5,7 +5,7 @@
 <h1 align="center"> Hi, I'm Ram ✨</h1>
 
 <p align="center">
-  <img src="https://github.com/ram5353/ram5353/blob/master/images/malabar.gif" width="230" height="199" alt="">
+  <img src="https://github.com/jmau111/jmau111/blob/master/images/malabar.gif" width="230" height="199" alt="">
 </p>
 
 
